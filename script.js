@@ -15,3 +15,7 @@ btn.onclick = changeBackground;
 document.addEventListener("DOMContentLoaded", () => {
   document.querySelector(".container").appendChild(btn);
 })
+
+function Names() {
+  alert("Yazan and Maria");
+}
